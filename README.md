@@ -5,14 +5,14 @@ Sarcini<h1/>
 noteze si sa isi organizeze sarcinile
 infunctie de prioritate, sa le marcheze ca
 finalizate sau sa le stearga in mod
-eficient.
-Functionalitati
-Adaugare si Gestionare a sarcinilor
-Prioritizare a sarcinilor
-Lista de sarcini favorite
-Recuperare a sarcinilor sterse (Lista
-de sarcini sterse)
-Interfata Moderna si Intuitiva<h4/>
+eficient.<h4/>
+
+<h2>Functionalitati:<h2/>
+<h4><li>Adaugare si Gestionare a sarcinilor
+<li>Prioritizare a sarcinilor
+<li>Lista de sarcini favorite
+<li>Recuperare a sarcinilor sterse (Lista de sarcini sterse)
+<li>Interfata Moderna si Intuitiva<h4/>
 
 ![Untitled 1](https://github.com/PetDama/FinalProjectFlutter/assets/94162879/16e25f9f-b91f-4a77-8c00-d1e12895c0a4)
 ![Untitled 2](https://github.com/PetDama/FinalProjectFlutter/assets/94162879/e3c867ea-b3f9-4ac3-a334-7eaa8650f214)
