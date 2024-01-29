@@ -1,16 +1,16 @@
-# to_do_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h1>To Do Application<h1/>
+<hr>
+<h4>Aplicatie de Gestionare a Listei de
+Sarcini
+Cu aceasta aplicatie utilizatorii pot sa isi
+noteze si sa isi organizeze sarcinile
+infunctie de prioritate, sa le marcheze ca
+finalizate sau sa le stearga in mod
+eficient.
+Functionalitati
+Adaugare si Gestionare a sarcinilor
+Prioritizare a sarcinilor
+Lista de sarcini favorite
+Recuperare a sarcinilor sterse (Lista
+de sarcini sterse)
+Interfata Moderna si Intuitiva<h4/>
